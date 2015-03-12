@@ -1,1 +1,1 @@
-from urls import Urls
+from urlman.urls import Urls
