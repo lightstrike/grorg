@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/dev/ref/settings/
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
-SECRET_KEY = "secret"
+SECRET_KEY = "real secret key"
 
 DEBUG = True
 
